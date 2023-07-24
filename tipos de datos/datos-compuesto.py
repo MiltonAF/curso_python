@@ -19,8 +19,7 @@ conjunto = {"1","2","3"}
 diccionario = {
     "id": 123,
     "nombre": "milton",
-    "edad": 12
-    
+    "edad": 12    
     
 }
 
