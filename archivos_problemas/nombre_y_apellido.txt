@@ -1,0 +1,17 @@
+los datos son: 
+
+nombre: milton.
+apellido: martinez.
+--------------
+nombre: andres.
+apellido: torres.
+--------------
+nombre: camila.
+apellido: vuege.
+--------------
+nombre: valentina.
+apellido: cardenas.
+--------------
+nombre: eduardo.
+apellido: montiel.
+--------------
